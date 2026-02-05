@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anton-mosquito&label=Profile%20views&color=0e75b6&style=flat" alt="anton-mosquito" /> </p>
 
-- 🔭 I’m currently working on [Zipify One Click Upsell](https://apps.shopify.com/zipify-oneclickupsell?show_store_picker=1&st_source=autocomplete)
 
 - 📫 How to reach me **anton0886@gmail.com**
 
